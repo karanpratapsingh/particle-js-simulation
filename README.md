@@ -3,8 +3,7 @@ A simple demonstration of Particle Js library for JavaScript :)
 
 ### Library :
 
-#### P5 Js : https://github.com/VincentGarreau/particles.js/
-
+#### Particle JS : https://github.com/VincentGarreau/particles.js/
 
 ### In Action
 
