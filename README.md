@@ -7,4 +7,4 @@ A simple demonstration of Particle Js library for JavaScript :)
 
 ### In Action
 
-![in-action]()
+![in-action](https://media.giphy.com/media/1ynT3OZBHys1ly7qkA/giphy.gif)
